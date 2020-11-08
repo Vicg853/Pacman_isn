@@ -13,6 +13,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
-    "three": "^0.121.1"
+    "dotenv": "^8.2.0"
   }
 }
