@@ -1,7 +1,9 @@
+require("dotenv").config();
 const express = require("express");
 
 const api = express();
 
 api.use(express.static("static"));
 
-api.listen(8080, () => console.log("Server is listening in http://localhost:3000"));
+const port = process.env.PORT || 8080;
+api.listen(port, () => console.log("Server is listening in http://localhost:", port));
