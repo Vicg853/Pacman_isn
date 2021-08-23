@@ -22,7 +22,7 @@ If you don't wan't to install the project on your own computer, you may access i
 ## Installation
 ##### First, let's download the project
 _Must have: [Node.Js](https://nodejs.dev/) installed_
-1. With git clone the repository (or download and extract the zip file)
+##### With git clone the repository (or download and extract the zip file)
 ```bash
 git clone https://github.com/Vicg853/Pacman_isn.git
 cd Pacman_isn
