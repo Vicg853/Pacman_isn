@@ -40,12 +40,12 @@ cd Pacman_isn
 ```bash
 npm install
 ```
-_Dor development run_
+_For development run..._
 ```bash
 npm install
 npm run dev
 ```
-_Or for production run_
+_...Or for production run_
 ```bash
 npm install
 npm run start
