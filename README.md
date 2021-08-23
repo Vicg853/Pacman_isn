@@ -29,7 +29,11 @@ cd Pacman_isn
 ```
 <details>
     <summary>_In case you downloaded and extracted the Zip file_</summary>
-    <p>```bash cd [download repository path]/Pacman_isn```</p>
+    <p>
+        ```bash 
+        cd [download repository path]/Pacman_isn
+        ```
+    </p>
 </details>
 
 ##### Then use [NPM](https://docs.npmjs.com/) package manager to download dependencies and run the project...
