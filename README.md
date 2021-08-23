@@ -30,9 +30,7 @@ cd Pacman_isn
 <details>
     <summary>_In case you downloaded and extracted the Zip file_</summary>
     <p>
-        ```bash 
-        cd [download repository path]/Pacman_isn
-        ```
+        ```cd [download repository path]/Pacman_isn```
     </p>
 </details>
 
@@ -51,7 +49,7 @@ npm install
 npm run start
 ```
 ##### Now you should be able to access the project on your brwoser...
-...Just access [Localhost](http://localhost:8080/) on port ``` http://localhost:8080/ ``` in your desired brwoser.
+...Just access [Localhost](http://localhost:8080/) on port ```8080``` in the browser of your choice.
 
 - - - - 
 
