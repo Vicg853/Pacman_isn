@@ -11,7 +11,8 @@ Started while I was at Lycée Pasteur Vergueiro - São Paulo, SP - Brazil
 * [ ] Ghosts and their algorithms
 * [ ] Little fruits and ghosts collision handling
 * [ ] Some more advanced graphics (like some lighting and little bit higher 3D models)
-* [ ] Better optimize web version with some options in React and support for Desktop version with Electron.js
+* [ ] Better optimize web version with some options in React
+* [x] Desktop support using Electron.js (under development, branch: ```using-electron```)
 #### _Maybe... :_
 * [ ] Making a second version with mobile support using React Native
 - - - - 
