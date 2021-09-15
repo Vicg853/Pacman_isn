@@ -1,5 +1,7 @@
 # Three.js Example
 
+> This is only still a boilerplate with start files edited a long time ago, to try and make the game a mobile version using: Expo, Three.JS, Typescript, React Native and CANNON.JS...
+
 <p>
   <!-- iOS -->
   <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
